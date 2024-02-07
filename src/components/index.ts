@@ -1,0 +1,1 @@
+export { default as TopBarComponent } from '@/components/Navigation/top_bar'
