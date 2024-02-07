@@ -1,5 +1,5 @@
 import { PayloadAction } from '@reduxjs/toolkit'
-import { AuthState } from './types'
+import { AuthState } from '../types'
 
 export function setUserAuthored(
   state: AuthState,

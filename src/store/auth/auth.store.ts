@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit'
 import * as Action from './auth.action'
-import { AuthState } from './types'
+import { AuthState } from '../types'
 
 const initialState: AuthState = {
   isAuthored: false,
